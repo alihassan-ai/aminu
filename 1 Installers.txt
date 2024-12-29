@@ -1,0 +1,16 @@
+
+
+# swarm ui
+
+chmod +x install-linux.sh
+./install-linux.sh
+
+# Kohya
+
+chmod +x RunPod_Kohya_FLUX_Installer_part1.sh
+./RunPod_Kohya_FLUX_Installer_part1.sh
+
+#kohya <- flux
+
+chmod +x RunPod_Kohya_FLUX_Installer_part2.sh
+./RunPod_Kohya_FLUX_Installer_part2.sh

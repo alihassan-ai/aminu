@@ -1,0 +1,18 @@
+#swarmui launcher
+
+chmod +x ./launch-swarmui.sh
+./launch-swarmui.sh
+
+#forge ui launcher
+./run_webui.sh
+
+
+# Kohya 1 launcer 
+
+chmod +x ./KL.sh
+./KL.sh
+
+
+# Kohya timm issue fix
+
+./KL_fixxer.sh
